@@ -1,0 +1,17 @@
+{
+    "name": "skuvault/php-api-wrapper",
+    "type": "library",
+    "description": "SkuVault PHP wrapper",
+    "keywords": ["php","skuvault"],
+    "homepage": "https://github.com/skuvault/php-api-wrapper",
+    "license": "MIT",
+    "authors": [],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
